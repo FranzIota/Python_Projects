@@ -93,7 +93,7 @@ plt.show()
 ## 2. How are in-demand skills trending for Data Analytics?
 To analyze skill trends for Data Analysts in 2025, I first filtered the dataset to include only Data Analyst roles. I then grouped job postings by month and aggregated the listed skills to measure their frequency over time. This approach allowed me to identify the top five most in-demand skills for each month, providing insight into how skill demand evolved throughout the year.
 
-You can view the complete analysis and detailed methodology in the notebook: [3_Skills_Trend](2_Projects\3_Skills_Trend.ipynb)
+You can view the complete analysis and detailed methodology in the notebook: [3_Skills_Trend](2_Projects/2_Skills_Count.ipynb)
 
 ### Visualize Data
 ```python
