@@ -80,7 +80,7 @@ plt.show()
 
 ### Results 
 
-![Visualization of Top Skills for Data Jobs](2_Projects\Images\Skill_Count_All_Data_Roles.png) 
+![Visualization of Top Skills for Data Jobs](2_Projects/Images/Skill_Count_All_Data_Roles.png) 
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -93,7 +93,7 @@ plt.show()
 ## 2. How are in-demand skills trending for Data Analytics?
 To analyze skill trends for Data Analysts in 2025, I first filtered the dataset to include only Data Analyst roles. I then grouped job postings by month and aggregated the listed skills to measure their frequency over time. This approach allowed me to identify the top five most in-demand skills for each month, providing insight into how skill demand evolved throughout the year.
 
-You can view the complete analysis and detailed methodology in the notebook: [3_Skills_Trend](2_Projects/2_Skills_Count.ipynb)
+You can view the complete analysis and detailed methodology in the notebook: [3_Skills_Trend](2_Projects/3_Skills_Trend.ipynb)
 
 ### Visualize Data
 ```python
@@ -114,7 +114,7 @@ plt.show()
 ```
 ### Result
 
-![Trending Top SKills for Data Analysts in Indonesia](2_Projects\Images\Skill_Trend.png)
+![Trending Top SKills for Data Analysts in Indonesia](2_Projects/Images/Skill_Trend.png)
 
 *Graph visualizing the trending top skills for data analysts in Indonesia in 2025*
 
@@ -125,7 +125,7 @@ plt.show()
 
 
 ## 3. How well do jobs and skills pay for Data Analysts?
-You can view the complete analysis and detailed methodology in the notebook: [4_Salary_Analysis](2_Projects\4_Salary_Analysis.ipynb)
+You can view the complete analysis and detailed methodology in the notebook: [4_Salary_Analysis](2_Projects/4_Salary_Analysis.ipynb)
 
 #### Visualize Data
 
@@ -140,7 +140,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in Indonesia](2_Projects\Images\Salary_Analysis.png) 
+![Salary Distributions of Data Jobs in Indonesia](2_Projects/Images/Salary_Analysis.png) 
 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
@@ -173,7 +173,7 @@ plt.show()
 ```
 
 #### Results 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in Indonesia](2_Projects\Images\Highest_Paid.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in Indonesia](2_Projects/Images/Highest_Paid.png)
 
 *Two Separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in Indonesia*
 
@@ -189,7 +189,7 @@ To identify the most optimal skills to learn defined as those that are both high
 
 By combining demand (frequency) and compensation (median salary), I was able to evaluate the relative value of each skill and highlight those that offer the strongest balance between market demand and earning potential.
 
-You can view the complete analysis and detailed methodology in the notebook: [5_Optimal_Skills](2_Projects\5_Optimal_Skills.ipynb)
+You can view the complete analysis and detailed methodology in the notebook: [5_Optimal_Skills](2_Projects/5_Optimal_Skills.ipynb)
 
 #### Visualize Data
 
@@ -205,7 +205,7 @@ plt.show()
 ```
 
 #### Results
-![Most Optimal SKills for Data Analyst in Indonesia](2_Projects\Images\Optimal_Skills.png)
+![Most Optimal SKills for Data Analyst in Indonesia](2_Projects/Images/Optimal_Skills.png)
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in Indonesia*
 
