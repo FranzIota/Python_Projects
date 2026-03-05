@@ -80,7 +80,7 @@ plt.show()
 
 ### Results 
 
-![Visualization of Top Skills for Data Jobs](2_Projects\Images\Skill_Count_All_Data_Roles.png) 
+![Visualization of Top Skills for Data Jobs](2_Projects/Images/Skill_Count_All_Data_Roles.png) 
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
